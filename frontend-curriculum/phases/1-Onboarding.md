@@ -2,7 +2,7 @@
 
 # Phase 1 - *Onboarding*
 
-ADD SHORT DESCRIPTION
+Welcome to our frontend apprenticeship! We're so glad you're here. Your onboarding time will be spent getting your computer up and running with the tools you need and making sure you're comfortable with Git before we dive in to HTML, CSS, JavaScript, and beyond!
 
 #### **Training:**
 * Complete any onboarding tasks new hires complete. 
@@ -15,4 +15,9 @@ ADD SHORT DESCRIPTION
   * GitHub Basics Tutorial - https://www.youtube.com/watch?v=x0EYpi38Yp4 
   * Git It Tutorial - https://github.com/jlord/git-it-electron
   * Git stash - https://www.youtube.com/watch?v=DeU6opFU_zw&index=3&list=PL55RiY5tL51poFMpbva1IqfO-pylwSNsN
-  * Git CheatSheet: https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf 
+  * Git CheatSheet: https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
+  
+### **Additional Resources:**
+* Awesome VSCode - https://github.com/viatsko/awesome-vscode
+* Top Ten Pro Tips: https://www.youtube.com/watch?v=u21W_tfPVrY
+
