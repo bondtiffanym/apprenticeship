@@ -2,7 +2,7 @@
 
 # Phase 2 - *Getting to Know Your Team*
 
-ADD SHORT DESCRIPTION
+Now that your computer is all set up, we'll spend some time immersing you in the product your team is working on and what the product lifecycle looks like.
 
 #### **Training:**
 * Learn about the product your assigned team is working on 
