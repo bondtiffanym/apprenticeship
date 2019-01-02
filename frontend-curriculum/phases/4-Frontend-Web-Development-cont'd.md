@@ -2,7 +2,7 @@
 
 # Phase 4 - *Frontend Web Development cont'd*
 
-ADD SHORT DESCRIPTION
+Time for some JavaScript! Before we get into React, we will spend time getting more comfortable with vanilla JavaScript and how to solve problems with it.
 
 #### **Training:**
 * Javascript refresher
