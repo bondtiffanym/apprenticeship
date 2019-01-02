@@ -15,3 +15,7 @@ Welcome to our backend apprenticeship! We're so glad you're here. Your onboardin
   * Git It Tutorial - https://github.com/jlord/git-it-electron
   * Git stash - https://www.youtube.com/watch?v=DeU6opFU_zw&index=3&list=PL55RiY5tL51poFMpbva1IqfO-pylwSNsN
   * Git CheatSheet: https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf 
+
+
+### **Additional Resources:**
+* Awesome VSCode - https://github.com/viatsko/awesome-vscode
