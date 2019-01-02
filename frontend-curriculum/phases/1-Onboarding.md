@@ -5,9 +5,9 @@
 ADD SHORT DESCRIPTION
 
 #### **Training:**
-* any onborading tasks new hires complete. 
+* Complete any onborading tasks new hires complete. 
 * spend time setting up mac/environment/tooling - connect them with either a FE or BE engineer to help them get this set and start meeting ppl on our team. I met with Matt J and he was really helpful.
-* go over FE cheat sheet
+* Frontend CheatSheet - https://wiki.developer.alchemy.codes/cheat-sheets/frontend 
 * Git basics - what it does/how to use it/ useful command lines/how the team you're working on uses it:
   * Git - Understanding the basics - https://www.youtube.com/watch?v=_OZVJpLHUaI
   * GitHub - tutorial for beginners https://www.youtube.com/watch?v=mVnZVw4KJnc 
