@@ -13,7 +13,7 @@ Now that we've studied up on HTML, CSS, and CSS frameworks/preprocessors...Time 
   * FreeCodeCamp Basic Data Structures - https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures
   * FreeCodeCamp Basic Algorithm Scripting - https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/
   * FreeCodeCamp Telephone Number Validator: https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator
- * FreeCodeCamp Cash Register: https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register
+  * FreeCodeCamp Cash Register: https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register
   
 * JavaScript library - Intro to React
   * Getting started - https://reactjs.org/docs/getting-started.html
