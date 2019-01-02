@@ -1,4 +1,4 @@
-Welcome to the Frontend curriculum!  This curriculum is broken up into phases and each phase progresses to give you the study materials that you need to became familiar and comfortable with a lot of the tools we use as a frontend developer here at Alchemy!  
+Welcome to the Frontend curriculum!  This curriculum is broken up into phases and each phase progresses to give you the study materials that you need to became familiar and comfortable with a lot of the tools we use as frontend developers here at Alchemy!  
 
 ### Phase 1 - *Onboarding*
 * New Hire Onborading tasks
