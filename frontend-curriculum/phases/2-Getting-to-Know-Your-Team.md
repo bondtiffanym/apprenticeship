@@ -1,4 +1,4 @@
-[← Back to Curriculum](../)
+[← Back to Curriculum](./)
 
 # Phase 2 - *Getting to Know Your Team*
 
