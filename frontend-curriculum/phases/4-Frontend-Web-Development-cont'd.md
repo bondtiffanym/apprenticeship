@@ -1,4 +1,4 @@
-[← Back to Curriculum](../)
+[← Back to Curriculum](./)
 
 # Phase 4 - *Frontend Web Development cont'd*
 
