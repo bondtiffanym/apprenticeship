@@ -10,6 +10,7 @@ ADD SHORT DESCRIPTION
   * YouTube: https://www.youtube.com/watch?v=JvMxl0BXrDA 
   * FreeCodeCamp Basic JavaScript- https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/
   * FreeCodeCamp ES6 - https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/
+  * FreeCodeCamp Basic Algorithm Scripting - https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/
 * JavaScript library - Intro to React
   * Getting started - https://reactjs.org/docs/getting-started.html
   * Learn by doing - https://reactjs.org/tutorial/tutorial.html
