@@ -6,14 +6,14 @@ ADD SHORT DESCRIPTION
 
 #### **Training:**
 * HTML/CSS refresher
-  * https://learn.co/lessons/html-link 
-  * https://learn.co/lessons/html-images-overview
-  * https://learn.co/lessons/html-syntax-overview
-  * https://learn.co/lessons/web-is-html
-  * https://learn.co/lessons/css-selectors
-  * https://learn.co/lessons/fe-css-fundamentals
-  * https://learn.co/lessons/css-syntax-overview
-  * https://learn.co/lessons/styling-with-css-intro
+  * HTML Links - https://learn.co/lessons/html-link 
+  * HTML Images - https://learn.co/lessons/html-images-overview
+  * HTML Basics - https://learn.co/lessons/html-syntax-overview
+  * The Web is Made of HTML -  https://learn.co/lessons/web-is-html
+  * CSS Selectors - https://learn.co/lessons/css-selectors
+  * CSS Fundamentals - https://learn.co/lessons/fe-css-fundamentals
+  * CSS Basics - https://learn.co/lessons/css-syntax-overview
+  * Styling With CSS Intro - https://learn.co/lessons/styling-with-css-intro
   * YouTube: https://www.youtube.com/watch?v=e-j6xoN0Awo 
 * CSS Framework - Intro to Bulma
   * Getting started and setup info: https://bulma.io/documentation/overview/start/ 
