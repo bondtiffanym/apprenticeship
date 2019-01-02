@@ -1,4 +1,4 @@
-[← Back to Curriculum](../)
+[← Back to Curriculum](./)
 
 # Phase 6 - *Players React Challenge Prep*
 
