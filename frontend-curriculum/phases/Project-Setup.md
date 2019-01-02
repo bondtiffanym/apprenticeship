@@ -1,4 +1,4 @@
-[← Back to Curriculum](../)
+[← Back to Curriculum](./)
 
 # Project-Setup
 
