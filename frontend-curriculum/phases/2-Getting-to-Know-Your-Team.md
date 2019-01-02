@@ -1,5 +1,6 @@
-# Phase 2 - *Getting to Know Your Team*
+[← Back to Curriculum](../)
 
+# Phase 2 - *Getting to Know Your Team*
 
 ADD SHORT DESCRIPTION
 
