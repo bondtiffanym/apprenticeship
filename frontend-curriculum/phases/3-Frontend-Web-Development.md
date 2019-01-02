@@ -2,7 +2,7 @@
 
 # Phase 3 - *Frontend Web Development*
 
-ADD SHORT DESCRIPTION
+Time for some HTML and CSS! Before we get into Bulma and SCSS, we will spend time refreshing our HTML and CSS skills so we can easily build off of them in the near future.
 
 #### **Training:**
 * HTML/CSS refresher
