@@ -2,7 +2,7 @@
 
 # Phase 5 - *State Management*
 
-ADD SHORT DESCRIPTION
+This phase will focus on managing state in your react app. Most teams at Alchemy use MobX State tree. MobX State Tree (MST) is a library that helps you organize your application states in a very structured manner. It allows you to create a component model, but for your data!
 
 #### **Training:**
 * Intro to MobX State Tree
