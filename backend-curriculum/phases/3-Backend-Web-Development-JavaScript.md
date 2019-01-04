@@ -18,3 +18,5 @@ Time for some JavaScript! Before we get into Node, we will spend time getting mo
   * FreeCodeCamp Telephone Number Validator: https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator
   * FreeCodeCamp Cash Register: https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register
   
+### **Additional Resources:**
+* Learn JavaScript - https://learnjavascript.online/

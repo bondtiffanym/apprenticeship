@@ -26,3 +26,6 @@ Now that we've studied up on HTML, CSS, and CSS frameworks/preprocessors...Time 
   * https://survivejs.com/react/introduction/ 
 * Side project create a CRUD app with react.. Something similar to this:
   * https://hackernoon.com/create-a-simple-todo-app-in-react-9bd29054566b  walks through create read and delete... bonus would be to add in edit?
+
+### **Additional Resources:**
+* Learn JavaScript - https://learnjavascript.online/
