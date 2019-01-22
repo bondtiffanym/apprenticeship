@@ -7,9 +7,9 @@ Now that your computer is all set up, we'll spend some time immersing you in the
 #### **Training:**
 * Learn about the product your assigned team is working on
     - Alchemy's right to win with the product
-    - Why are we making this product/ what is the pain point were solving for
+    - Why are we making this product/ what is the pain point we're solving for
     - Who your stakeholders are and what they do
-    - Each position on a standard team (USX/UI/PM/etc)
+    - Each position on a standard team (UX/UI/PM/etc)
     - Competitive analysis
 * Build Process - How we build, deploy, and deliver
     - Travis/GitHub
@@ -21,10 +21,17 @@ Now that your computer is all set up, we'll spend some time immersing you in the
 * Code Style - The way we write documentation and code
     - Es-lint AirBNB
         - Airbnb JavaScript Style Guide - https://github.com/airbnb/javascript
-        - Integrating Prettier + ESLint + Airbnb Style Guide in VSCode - https://blog.echobind.com/integrating-prettier-eslint-airbnb-style-guide-in-vscode-47f07b5d7d6a
-    - Prettier
-        - https://prettier.io/
-        - https://github.com/prettier
+            - destructuring
+            - functions
+            - arrow-functions
+            - modules
+            - variables
+            - comparison-operators--equality
+            - blocks
+            - control-statements
+            - comments
+            - whitespace
+            - naming-conventions
     - A11y linting
     - Documentation: post man generated docs
         - https://learning.getpostman.com/
