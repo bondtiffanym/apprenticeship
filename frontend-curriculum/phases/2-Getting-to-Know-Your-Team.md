@@ -32,7 +32,12 @@ Now that your computer is all set up, we'll spend some time immersing you in the
             - comments
             - whitespace
             - naming-conventions
+    - Integrating Prettier + ESLint + Airbnb Style Guide in VSCode - https://blog.echobind.com/integrating-prettier-eslint-airbnb-style-guide-in-vscode-47f07b5d7d6a
+    - Prettier
+        - https://prettier.io/
     - A11y linting
+        - https://www.npmjs.com/package/eslint-plugin-jsx-a11y
+        - why web accessibility is important : https://wiki.developer.alchemy.codes/cheat-sheets/Web-Accessibility
     - Documentation: post man generated docs
         - https://learning.getpostman.com/
         - https://www.youtube.com/watch?list=PLM-7VG-sgbtBE0mqMBlAYNuqTkhJzFjlP&v=Ayo_KdLLcTA
