@@ -15,6 +15,7 @@ Welcome to our backend apprenticeship! We're so glad you're here. Your onboardin
   - GitHub Basics Tutorial - https://www.youtube.com/watch?v=x0EYpi38Yp4
   - Git It Tutorial - https://github.com/jlord/git-it-electron
   - Git stash - https://www.youtube.com/watch?v=DeU6opFU_zw&index=3&list=PL55RiY5tL51poFMpbva1IqfO-pylwSNsN
+  - Git fetch - https://www.youtube.com/watch?v=QRydepk8TB0
   - Git CheatSheet - https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
   - Git Resources from Github - https://try.github.io/
   - Plain language explanation when git gets scary - https://ohshitgit.com/
