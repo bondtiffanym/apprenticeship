@@ -30,9 +30,9 @@ Welcome to our Backend Apprenticeship curriculum! This curriculum is designed in
   - Routing with Express
   - CRUD functions
 
-### Phase 5 - _Backend Web Development_
+### [Phase 5 - _Backend Web Development - SQL](./phases/5-Backend-Web-Development-Database.md)
 
-- Intro to Mongo and Mongoose (FreeCodeCamp)
-- Intro to PostgreSQL
+- Intro to NoSQL Databases (Mongo and Mongoose (FreeCodeCamp))
+- Intro to Relational Databases (SQL Lite and PostgreSQL)
 
 ### Phase 6 - _Players API Challenge Prep_
