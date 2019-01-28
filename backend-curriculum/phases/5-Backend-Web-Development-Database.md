@@ -16,5 +16,5 @@ This phase will focus on databases. Most teams at Alchemy use Postgres, but Mong
 * Project TBD
   * maybe a todo app api using their choice of database?
   * we could define the endpoints that they would need to implement
-  * ask them to re-implement for different users?
+  * make sure to include support for multiple users?
 
