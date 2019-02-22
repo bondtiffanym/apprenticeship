@@ -24,5 +24,4 @@ walks you through creating three different pages using Bulma in an html file, bu
 * CSS Preprocessor - Intro to SCSS
   * Install: https://sass-lang.com/install
   * Documentation: https://sass-lang.com/guide
-  * YouTube: https://www.youtube.com/watch?v=PWh3miydff8 
   * YouTube: How to use sass in your react app - https://www.youtube.com/watch?v=xPXmHs-F10o 

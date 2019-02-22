@@ -32,6 +32,7 @@ Now that your computer is all set up, we'll spend some time immersing you in the
             - comments
             - whitespace
             - naming-conventions
+                - https://stackoverflow.com/questions/10302179/hyphen-underscore-or-camelcase-as-word-delimiter-in-uris
     - Integrating Prettier + ESLint + Airbnb Style Guide in VSCode - https://blog.echobind.com/integrating-prettier-eslint-airbnb-style-guide-in-vscode-47f07b5d7d6a
     - Prettier
         - https://prettier.io/
@@ -45,6 +46,7 @@ Now that your computer is all set up, we'll spend some time immersing you in the
     - Smart commits
     - Get/Make a resource on best practices
 * Product Management - How we manage our product through our sprint cycle/using JIRA
+    - Atlassian Agile Coach - https://www.atlassian.com/agile
     - PM/ADM speak about team process / generally about agile
     - JIRA - https://www.youtube.com/watch?v=TsG3OWTDAFY
     - Swimlanes and Ticket flow
@@ -53,6 +55,7 @@ Now that your computer is all set up, we'll spend some time immersing you in the
     - Story points
     - Invision design -> dev -> acceptance criteria
     - Make an issue
+        - https://www.atlassian.com/agile/tutorials
 * Services we Use - BigCommerce, Stripe, Travis CI, AWS (S3 & Lambda), Contentful, Commitizen, JIRA, Postman 
     - BigCommerce - https://support.bigcommerce.com/s/article/Getting-Started-Video
     - Stripe documentation - https://stripe.com/docs
